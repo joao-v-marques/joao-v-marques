@@ -8,9 +8,10 @@
 ---
 
 ## 📊 Minhas Contribuições
-
-| ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorMarques&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorMarques&layout=compact&theme=radical) |
-| --- | --- |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-v-marques&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-v-marques&layout=compact&theme=radical"/>
+</div>
 
 ## 🛠️ Tecnologias que utilizo
 <div align="center">
