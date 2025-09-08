@@ -25,4 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <!-- OracleDB -->
   <img src="https://img.icons8.com/color/48/oracle-logo.png" width="50" height="50"/>
+ <!-- GIT -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </div>
