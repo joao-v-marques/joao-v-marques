@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-v-marques&layout=compact&theme=radical"/>
 </div>
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias que utilizo atualmente
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -25,6 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <!-- OracleDB -->
   <img src="https://img.icons8.com/color/48/oracle-logo.png" width="50" height="50"/>
- <!-- GIT -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </div>
