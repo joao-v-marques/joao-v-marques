@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o João Victor Marques
 
- ⚠️ ESTA CONTA É NOVA NO GITHUB, POR ISSO ESTÁ COM POUCOS COMMITS, CONTRIBUIÇÕES, ETC.
-
 🚀 **Desenvolvedor Backend** estudando todos os dias para aprender cada vez mais.  
 👨‍💻 Explorando o **Frontend** para eventualmente me tornar um **Desenvolvedor Fullstack**.
 
