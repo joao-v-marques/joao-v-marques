@@ -23,4 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <!-- OracleDB -->
   <img src="https://img.icons8.com/color/48/oracle-logo.png" width="50" height="50"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50" height="50"/>
 </div>
