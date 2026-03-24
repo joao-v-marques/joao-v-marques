@@ -13,6 +13,8 @@
 
 ## 🛠️ Tecnologias que utilizo atualmente
 <div align="center">
+  <!-- GO -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
   <!-- Python -->
