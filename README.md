@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Victor Marques
 
 🚀 **Desenvolvedor Backend** estudando todos os dias para aprender cada vez mais.  
-👨‍💻 Explorando o **Frontend** para eventualmente me tornar um **Desenvolvedor Fullstack**.
+👨‍💻 Explorando tecnologias de **Infraestrutura** e **Backend**.
 
 ---
 
