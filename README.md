@@ -7,7 +7,7 @@
 
 ## 📊 Minhas Contribuições
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-v-marques&show_icons=true&theme=radical"/>
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaocarpim&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-v-marques&layout=compact&theme=radical"/>
 </div>
 
